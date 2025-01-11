@@ -17,7 +17,7 @@ This project features a calculator with smooth animations, designed with minimal
 ---
 
 ### 🌐 Live Demo:
-🔗 [Expanding Cards Live Preview](https://calculator-preview.netlify.app/)
+🔗 [Calculator Live Preview](https://calculator-preview.netlify.app/)
 
 ---
 
