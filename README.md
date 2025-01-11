@@ -12,12 +12,12 @@ This project features a calculator with smooth animations, designed with minimal
 ---
 
 ### 🎨 Preview:
-![Expanding Cards Preview](https://github.com/user-attachments/assets/db31108c-983f-40a1-86ff-03f4a224bc00)
+![Calculator Preview](https://github.com/user-attachments/assets/b707c522-dfdf-433d-8002-0ae61606dcc8)
 
 ---
 
 ### 🌐 Live Demo:
-🔗 [Expanding Cards Live Preview](https://expanding-cards-preview.netlify.app/)
+🔗 [Expanding Cards Live Preview](https://calculator-preview.netlify.app/)
 
 ---
 
